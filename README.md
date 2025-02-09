@@ -1,9 +1,21 @@
 # README: ניתוח סטטיסטי עבור קישורי ריח-צליל
 
 ## סקירה כללית
-פרויקט זה מנתח את הקשר בין ריחות לתפיסת צלילים. התהליך כולל עיבוד מקדים, חישוב סטטיסטיקות תיאוריות, ביצוע רגרסיות ויצירת ויזואליזציות ומדדים מתקדמים כמו עקומת ROC.
+פרויקט זה מנתח את הקשר בין ריחות לתפיסת צלילים. התהליך כולל עיבוד מקדים, חישוב סטטיסטיקות תיאוריות, ביצוע רגרסיות ויצירת ויזואליזציות ומדדים מתקדמים כמו עקומת ROC. 
+נתונים אלו נלקחו מהניסוי הראשון של מחקר הדוקטורט שלי. אלו נתונים שמציגים את ההתאמות שביצעו 40 נבדקים על 7 ריחות שונים, ״ללא שם״, שנוצרו במעבדה בשביל הניסוי. משימת הנבדקים היתה להריח כל אחד משבעת הריחות תוך שהם מאזינים לצליל מונוטוני באוזניות, הנבדקים שלטו בגובה הצליל בלבד והיה עליהם להתאים את הצליל לריח אותו הריחו בכל פעם. כל נבדק הריח את כל הריחות בשלושה סבבים שונים. כלומר, כל אחד ביצע 21 הרחות סה״כ. העקביות נבדקה בין הנבדקים ובתוך הנבדקים.
 
 ---
+
+## Research Question
+Given the challenge of defining and categorizing odors, this study explores whether consistent crossmodal associations can be established between odors and perceived sound characteristics. Specifically, I ask:
+
+Can certain odors be consistently associated with specific pitch perceptions across individuals, providing a structured sensory framework for crossmodal interactions between olfaction and audition?
+
+This question is complex and meaningful because if a consistent relationship is found, it could have implications for sensory integration research, improving understanding of how the human brain processes multisensory stimuli. Additionally, such findings could inform applications in marketing (e.g., scent branding), virtual reality, and sensory substitution technologies.
+
+---
+
+
 
 ## נתונים ומבנה
 - **קובץ נתונים**: `just data exp1.xlsx`
